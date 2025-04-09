@@ -2,6 +2,7 @@
 - 🦀 Rustacean: Self-driven Rust developer with three years of experience building open-source solutions in async Rust, specializing in network programming and backend systems
 - 🔠 Polyglot programmer: Rust, C#, C, TypeScript, Python, F#
 - ⚡ Fun fact: I am an automation engineer
+- 🔍 Creator of popular network tools focusing on proxy technologies and security research
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Tokio](https://img.shields.io/badge/Tokio-2C2D72?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzNiAzNiI+PHBhdGggZD0iTTE4IDBDOCAwIDAgOCAwIDE4czggMTggMTggMThTMzYgMjggMzYgMTggMjggMCAxOCAwem0wIDMwLjRjLTYuOCAwLTEyLjQtNS41LTEyLjQtMTIuNFMxMS4yIDUuNiAxOCA1LjZjNi44IDAgMTIuNCA1LjUgMTIuNCAxMi40cy01LjYgMTIuNC0xMi40IDEyLjR6bTIuOS0xOS4xSDEyLjdjLS45IDAtMS42LjctMS42IDEuNnY4LjdjMCAuOS43IDEuNiAxLjYgMS42aDguMmMuOSAwIDEuNi0uNyAxLjYtMS42di04LjdjMC0uOC0uNy0xLjYtMS42LTEuNnptMCA5LjVoLTguMnYtNy44aDguMnYxLjNoLTYuM3YuN2g2LjN2MS4zaC02LjN2LjdoNi4zdjEuM2gtNi4zdi43aDYuM3YxLjh6IiBmaWxsPSIjZmZmZmZmIi8+PC9zdmc+)
