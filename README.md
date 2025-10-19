@@ -1,5 +1,7 @@
 # Hi there 👋, I'm Xerxes-2
 
+Open to job, please [email me](dspxue@gmail.com)
+
 ## About Me
 
 - 🎓 Electrical Engineering & Computer Science graduate
