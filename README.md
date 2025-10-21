@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Xerxes-2
 
-Open to job, please [email me](mailto:dspxue@gmail.com)
+Open for job, please [email me](mailto:dspxue@gmail.com)
 
 ## About Me
 
