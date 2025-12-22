@@ -1,7 +1,5 @@
 # Hi there 👋, I'm Xerxes-2
 
-Open for job, please [email me](mailto:dspxue@gmail.com)
-
 ## About Me
 
 - 🎓 Electrical Engineering & Computer Science graduate
@@ -14,10 +12,6 @@ Open for job, please [email me](mailto:dspxue@gmail.com)
 ## Currently
 - 🚀 Exploring quantum trading
 - 📚 Learning *Clean Architecture*
-
-## Find Me
-
-- [LinkedIn](https://www.linkedin.com/in/shupeng-xue/)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Xerxes-2&show_icons=true&card_width=320" />
