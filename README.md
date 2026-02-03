@@ -1,21 +1,45 @@
-# Hi there 👋, I'm Xerxes-2
+# Xerxes-2
 
-## About Me
+```rust
+struct Hardware {
+    cpu: &'static str,
+    gpu: &'static str,
+    laptops: [&'static str; 2],
+    keyboards: [&'static str; 2],
+}
 
-- 🎓 Electrical Engineering & Computer Science graduate
-- 🦀 Rust enthusiast with experience in Python, JS/TS, C, C#, and more
-- 🌐 Building with Tokio, Axum, ASP.NET Core, and React
-- ⚙️ CachyOS & macOS user | Fish shell & Ghostty terminal daily driver
-- 🔧 Hardware enthusiast: PC building & Android rooting
-- 💡 Always exploring the intersection of software and hardware
+struct Software {
+    os: [&'static str; 2],
+    compositor: &'static str,
+    terminals: [&'static str; 2],
+    shells: [&'static str; 2],
+    editor: &'static str,
+}
 
-## Currently
-- 🚀 Exploring quantum trading
-- 📚 Learning *Clean Architecture*
+struct Dev {
+    language: &'static str,
+    frameworks: [&'static str; 2],
+    ci: &'static str,
+}
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Xerxes-2&show_icons=true&card_width=320" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xerxes-2&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=8&card_width=320" />
-</a>
+const XERXES: (Hardware, Software, Dev) = (
+    Hardware {
+        cpu: "AMD Ryzen 9 9950X3D",
+        gpu: "AMD Radeon RX 9070 XT",
+        laptops: ["MacBook Pro 14 2023", "ThinkPad P14s Gen6 AMD"],
+        keyboards: ["NuPhy Air75 V2", "NuPhy Air75 V3"],
+    },
+    Software {
+        os: ["CachyOS", "Arch Linux"],
+        compositor: "Niri",
+        terminals: ["Ghostty", "Alacritty"],
+        shells: ["Fish", "Nushell"],
+        editor: "Helix",
+    },
+    Dev {
+        language: "Rust",
+        frameworks: ["Tokio", "Axum"],
+        ci: "GitHub Actions",
+    },
+);
+```
