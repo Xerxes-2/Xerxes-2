@@ -1,5 +1,7 @@
 # Xerxes-2
 
+[![wakatime](https://wakatime.com/badge/user/018c22e2-3a16-4515-89d4-56797f9e644d.svg)](https://wakatime.com/@018c22e2-3a16-4515-89d4-56797f9e644d)
+
 ```rust
 struct Hardware {
     cpu: &'static str,
@@ -22,7 +24,7 @@ struct Dev {
     ci: &'static str,
 }
 
-const XERXES: (Hardware, Software, Dev) = (
+const XERXES_2: (Hardware, Software, Dev) = (
     Hardware {
         cpu: "AMD Ryzen 9 9950X3D",
         gpu: "AMD Radeon RX 9070 XT",
