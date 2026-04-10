@@ -34,7 +34,7 @@ const XERXES_2: (Hardware, Software, Dev) = (
     Software {
         os: ["CachyOS", "Arch Linux"],
         compositor: "Niri",
-        terminals: ["Ghostty", "Alacritty"],
+        terminals: ["Ghostty", "Kitty"],
         shells: ["Fish", "Nushell"],
         editor: "Helix",
     },
