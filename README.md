@@ -6,8 +6,8 @@
 struct Hardware {
     cpu: &'static str,
     gpu: &'static str,
-    laptops: [&'static str; 2],
-    keyboards: [&'static str; 2],
+    laptops: [&'static str; 1],
+    keyboards: [&'static str; 1],
 }
 
 struct Software {
@@ -18,30 +18,19 @@ struct Software {
     editor: &'static str,
 }
 
-struct Dev {
-    language: &'static str,
-    frameworks: [&'static str; 2],
-    ci: &'static str,
-}
-
-const XERXES_2: (Hardware, Software, Dev) = (
+const XERXES_2: (Hardware, Software) = (
     Hardware {
         cpu: "AMD Ryzen 9 9950X3D",
         gpu: "AMD Radeon RX 9070 XT",
-        laptops: ["MacBook Pro 14 2023", "ThinkPad P14s Gen6 AMD"],
-        keyboards: ["NuPhy Air75 V2", "NuPhy Air75 V3"],
+        laptops: ["MacBook Pro 14 2023"],
+        keyboards: ["NuPhy Air75 V2"],
     },
     Software {
-        os: ["CachyOS", "Arch Linux"],
+        os: ["CachyOS", "Asahi Fedora", "macOS"],
         compositor: "Niri",
         terminals: ["Ghostty", "Kitty"],
         shells: ["Fish", "Nushell"],
         editor: "Helix",
-    },
-    Dev {
-        language: "Rust",
-        frameworks: ["Tokio", "Axum"],
-        ci: "GitHub Actions",
     },
 );
 ```
