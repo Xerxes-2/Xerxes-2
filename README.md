@@ -11,7 +11,7 @@ struct Hardware {
 }
 
 struct Software {
-    os: [&'static str; 2],
+    os: [&'static str; 3],
     compositor: &'static str,
     terminals: [&'static str; 2],
     shells: [&'static str; 2],
